@@ -1,0 +1,11 @@
+Why DeFi?
+
+During the lock-down and with so much time to think, read, and research I think is
+important to prioritize future projects and stay focus on DeFi projects only.
+
+It is no brainer that the finance industry is entering into a rapid change by
+decentralizing and removing the middle man in loans, insurance, new ways to earn
+interest and investing.
+
+The technology is already here! It is time to shake the central banks,
+politics around money, and wall street!
