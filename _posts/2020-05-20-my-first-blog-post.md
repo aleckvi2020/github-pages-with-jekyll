@@ -1,3 +1,8 @@
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
+
 Why DeFi?
 
 During the lock-down and with so much time to think, read, and research I think is
