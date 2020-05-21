@@ -1,6 +1,6 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "my first blog post"
+date: 2020-05-20
 ---
 
 Why DeFi?
